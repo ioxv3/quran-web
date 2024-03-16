@@ -355,7 +355,7 @@ class SurahGenerator
             '{{MENU}}'
         ],
         [
-            'Baca Quran Online',
+            'Quran Online',
             $indexHeaderTemplate,
             $footerTemplate,
             $menuTemplate
